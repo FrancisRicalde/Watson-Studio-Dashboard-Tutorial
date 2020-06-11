@@ -10,9 +10,7 @@ Esses painéis são fáceis de compartilhar para atender às suas necessidades a
 
 Por exemplo, você pode usá-los para analisar dados de campanha de marketing anteriores para entender a demografia do cliente e a relação com os resultados das campanhas segmentadas.
 
-O conjunto de dados de campanhas de marketing usado neste tutorial é gratuito, de código aberto e disponível no site bigML .
-
-A ferramenta neste tutorial usa o IBM Cognos Dashboards Embedded que está disponível como um serviço integrado no IBM Watson Studio .
+A ferramenta neste tutorial usa o IBM Cognos Dashboards Embedded que está disponível como um serviço integrado no IBM Watson Studio. 
 
 Pré-requisitos
 Para concluir as etapas deste tutorial, você precisará:
@@ -23,4 +21,4 @@ Para concluir as etapas deste tutorial, você precisará:
 Tempo estimado
 Leva aproximadamente 1 hora para ler e seguir todas as etapas deste tutorial.
 
-Veja os detalhes no PDF deste repositório. 
+Veja os detalhes nos PDFs deste repositório. 
